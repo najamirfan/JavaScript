@@ -1,5 +1,5 @@
 //all array methods
-/*
+
 let numbers =[1,2,3,4,5,6];
 
 console.log("array in start:",numbers);
@@ -23,7 +23,6 @@ console.log("array after sort:",numbers);
 let filterarray = numbers.filter(num=> num>4);
 console.log("array after filter:",filterarray);
 
-*/
 // all string methods
 
 let string = 'my name is najam and i am 25 years old';
